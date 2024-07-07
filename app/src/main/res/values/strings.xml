@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Car Obstacle</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="life_1">Life 1</string>
+    <string name="life_2">Life 2</string>
+    <string name="life_3">Life 3</string>
+    <string name="grid_cell_1">Grid Cell 1</string>
+    <string name="grid_cell_2">Grid Cell 2</string>
+    <string name="grid_cell_3">Grid Cell 3</string>
+    <string name="grid_cell_4">Grid Cell 4</string>
+    <string name="grid_cell_5">Grid Cell 5</string>
+    <string name="grid_cell_6">Grid Cell 6</string>
+    <string name="grid_cell_7">Grid Cell 7</string>
+    <string name="grid_cell_8">Grid Cell 8</string>
+    <string name="grid_cell_9">Grid Cell 9</string>
+</resources>

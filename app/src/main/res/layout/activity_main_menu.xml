@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/button_mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2 Buttons Mode"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/sensor_mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sensor Mode"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/records"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Records"/>
+</LinearLayout>
